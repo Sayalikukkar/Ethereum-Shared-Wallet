@@ -1,1 +1,1 @@
-# Ethereum-Shared-Wallet
+# Ethereum Shared Wallet
